@@ -1,28 +1,27 @@
-# حاسبة العمر
+# Age Calculator | حاسبة العمر
 
-عمرك بالضبط: سنوات وشهور وأيام، بالميلادي والهجري
+Calculate your exact age in years, months and days, in both Gregorian and Hijri calendars. Arabic interface.
 
-**رابط الأداة (تعمل فورًا من المتصفح):** https://abood-ayman.github.io/age-calculator-ar/
+**Live app:** https://abood-ayman.github.io/age-calculator-ar/
 
-## ما الذي تقدمه؟
+![Age Calculator, mobile view](docs/screenshot.svg)
 
-- العمر بالسنوات والشهور والأيام بين تاريخين
-- تاريخ ميلادك بالتقويم الهجري ويوم الأسبوع الذي وُلدت فيه
-- عد تنازلي بالأيام لعيد ميلادك القادم
-- إجمالي الأيام التي عشتها
+This is a personal project, built with AI tools.
 
-## الخصوصية
+## Features
+- Exact age in years, months and days between two dates
+- Your birth date in the Hijri calendar and the weekday you were born
+- Countdown in days to your next birthday
+- Total number of days you have lived
 
-تعمل الأداة بالكامل داخل متصفحك (HTML/CSS/JavaScript فقط). لا يوجد خادم، ولا حسابات، ولا تتبّع، ولا تُرسل أو تُحفظ أي بيانات تدخلها خارج جهازك.
+## Privacy
+Everything runs in your browser. No data is stored or sent anywhere.
 
-## التقنية
+## Run locally
+Open `index.html` in any browser. It is a single static page with no dependencies.
 
-صفحة ثابتة واحدة بلا أي مكتبات خارجية، تعمل على الهاتف والحاسوب، وتُستضاف مجانًا عبر GitHub Pages.
+## Status
+Stable.
 
-## ملاحظة شفافية
-
-بُنيت هذه الأداة بمساعدة أدوات ذكاء اصطناعي، ورُوعيَت بساطتها وفائدتها المباشرة.
-
-## الرخصة
-
-MIT — انظر ملف LICENSE.
+## Copyright
+MIT License - Copyright (c) 2026 Abdullah Ayman.
