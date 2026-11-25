@@ -4,6 +4,8 @@ Calculate your exact age in years, months and days, in both Gregorian and Hijri 
 
 **Live app:** https://abood-ayman.github.io/age-calculator-ar/
 
+**LinkedIn:** [Project entry](https://www.linkedin.com/in/abdullah-ayman-1678b737b/details/projects/)
+
 ![Age Calculator, mobile view](docs/screenshot.svg)
 
 This is a personal project, built with AI tools.
